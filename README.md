@@ -1,5 +1,5 @@
 # Traffic Sign Recognition
-
+![Traffic](https://blog.mapillary.com/img/2019-06-27-mapillary-traffic-sign-dataset.png)
 ## Context
 In this project I will explain about building a deep learning model to recognize traffic signs. It’s intended to be a learning experience, for myself and for anyone else who likes to follow along here I’ll focus on the practical aspects instead. I’ll describe my own experience building this model and share the source code. This is suitable for those who know Python and the basics of machine learning already, but want hands on experience and to practice building a real application.
 In this part, I’ll explain about image classification and I’ll keep the model as simple as possible covering convolutional networks, data augmentation, and object detection.
