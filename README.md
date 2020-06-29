@@ -22,3 +22,11 @@ In this project, I will develop a deep learning algorithm that will train on Ger
 
 The Image dataset consists of 43 classes (Unique traffic sign images).
 Training Set has 34799 Images , Test set has 12630 images and the validation set has 4410 images.
+
+## Dataset
+In this project, we use a german traffic sign dataset from [German Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
+
+## Conclusion
+Conclusions
+In this project, I applied a basic Convolution Neural Network Architecture because, it is a simple, ligh-weight with accurate results for classifying images. I wanted to try this one before anything else, and as I found that it has a great performance, in addition to the augmentation techniques.
+This application will help to a self-driving car to understand, as well as we do, what comes ahead on the road and predict what actions it should have to make given the time.
